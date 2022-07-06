@@ -182,6 +182,16 @@ p {
     width: 100%;
 }
 
+.div_volunteer {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/donation13.jpg');
+    color: white;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 100px;
+    margin: 0px 34px;
+}
+
+/* start get my update */
 .div_get_my_updates {
     margin: 10% auto;
 }
@@ -219,7 +229,7 @@ p {
     font-size: 15px;
 }
 
-
+/* end get my update section design */
 /* start footer section design */
 .div_footer {
     background-color: black;
